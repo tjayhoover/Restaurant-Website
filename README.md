@@ -1,4 +1,4 @@
-# Restaurant-Website
+# Restaurant Website
 Responsive website I developed for a class project.
 
 The assignment was to take an existing restaurant that had an unsatisfactory website, and develop a better version of that site.
